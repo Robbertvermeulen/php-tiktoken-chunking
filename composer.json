@@ -1,0 +1,10 @@
+{
+  "require": {
+    "mehrab-wj/tiktoken-php": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GPT_Toolkit\\": "src/"
+    }
+  }
+}
